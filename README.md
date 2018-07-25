@@ -7,3 +7,5 @@ analysis of underscore
 2、[underscore源码分析之JS API](https://github.com/jingegebuguai/underscore-context/issues/2)
 
 3、[underscore源码分析之delay，defer函数](https://github.com/jingegebuguai/underscore-context/issues/3)
+
+4、[underscore源码分析之throttle节流&debounce仿抖函数](https://github.com/jingegebuguai/underscore-context/issues/4)
